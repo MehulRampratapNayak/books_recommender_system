@@ -1,0 +1,6 @@
+streamlit
+numpy
+sckit-learn
+
+#local packages
+-e .
