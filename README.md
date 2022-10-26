@@ -22,7 +22,7 @@ here is a demo,
 
 ![input the type of book](https://user-images.githubusercontent.com/102470567/197928242-9ba2a8db-cf04-4b73-a9dc-b27d133e8a81.png)
 
-3) Recommendations of similarbtype of books
+3) Recommendations of similartype of books on the basis of input name given in point no.2
 
 ![recommendations](https://user-images.githubusercontent.com/102470567/197928260-a3472ef2-f5e3-41eb-917e-b3d620cd52be.png)
 
