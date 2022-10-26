@@ -15,7 +15,7 @@ here is a demo.
 
 * [Dataset link](https://www.kaggle.com/ra4u12/bookrecommendation)
 
-# Project Demo:
+# Project Demo Video :
 
 https://user-images.githubusercontent.com/102470567/198002022-b7135b26-6ecc-43f7-8aea-4ceddfb30ae1.mp4
 
