@@ -14,11 +14,14 @@ here is a demo,
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+1) Home Page
+![home image](https://user-images.githubusercontent.com/102470567/197928234-590eec63-ffac-4d5f-bcef-4c47216af64a.png)
 
-<img src="demo/2.png" alt="workflow" width="70%">
+2) Input the Name of the Book
+![input the type of book](https://user-images.githubusercontent.com/102470567/197928242-9ba2a8db-cf04-4b73-a9dc-b27d133e8a81.png)
 
-<img src="demo/3.png" alt="workflow" width="70%">
+3) Recommendations of similarbtype of books
+![recommendations](https://user-images.githubusercontent.com/102470567/197928260-a3472ef2-f5e3-41eb-917e-b3d620cd52be.png)
 
 
 # Dataset has been used:
