@@ -9,28 +9,15 @@ The purpose of a recommendation system basically is to search for content that w
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
-here is a demo,
-
-
-# Demo:
-
-1) Home Page
-
-![home image](https://user-images.githubusercontent.com/102470567/197928234-590eec63-ffac-4d5f-bcef-4c47216af64a.png)
-
-2) Input the Name of the Book
-
-![input the type of book](https://user-images.githubusercontent.com/102470567/197928242-9ba2a8db-cf04-4b73-a9dc-b27d133e8a81.png)
-
-3) Recommendations of similartype of books on the basis of input name given in point no.2
-
-![recommendations](https://user-images.githubusercontent.com/102470567/197928260-a3472ef2-f5e3-41eb-917e-b3d620cd52be.png)
-
+here is a demo.
 
 # Dataset has been used:
 
 * [Dataset link](https://www.kaggle.com/ra4u12/bookrecommendation)
 
+# Project Demo:
+
+https://user-images.githubusercontent.com/102470567/198002022-b7135b26-6ecc-43f7-8aea-4ceddfb30ae1.mp4
 
 
 # How to run?
