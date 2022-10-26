@@ -1,6 +1,6 @@
 # Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+![6](https://user-images.githubusercontent.com/102470567/197926828-6e5c0bb5-29a2-45eb-8c3c-5a2a0135fd5d.jpeg)
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -50,12 +50,6 @@ conda activate venv/
 ```bash
 pip install -r requirements.txt
 ```
-
-
-```bash
-
-```
-
 Now run,
 ```bash
 streamlit run app.py
